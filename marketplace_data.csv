@@ -1,0 +1,451 @@
+platform,category,pricing_model,update_freq,provider_type,is_bundled,price,log_price
+AWS Data Exchange,IoT_Sensor,Subscription,Monthly,Academic_NGO,0,1266.4271593865305,7.1439549544727585
+Snowflake Marketplace,Marketing,Subscription,Weekly,Startup,1,1297.6705898062608,7.168326082163767
+Snowflake Marketplace,Healthcare,Subscription,Daily,Enterprise,1,7003.821191930953,8.854211163658238
+Snowflake Marketplace,Media,One-off,Weekly,Enterprise,1,3288.1034278533116,8.098066211841102
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,1,4767.112182670084,8.46949598810814
+AWS Data Exchange,Marketing,One-off,Monthly,Startup,0,758.4939811564453,6.631334863564546
+AWS Data Exchange,Financial,One-off,Monthly,Startup,0,2741.519935066426,7.916267766408556
+Snowflake Marketplace,Healthcare,Subscription,Daily,Enterprise,0,19791.898680929025,9.893027975426008
+Snowflake Marketplace,Financial,Subscription,Daily,Enterprise,0,989.2733141232494,6.896970647461416
+Snowflake Marketplace,Financial,Subscription,Weekly,Enterprise,0,710.9946003199613,6.5666648352877095
+AWS Data Exchange,Financial,Subscription,Monthly,Startup,1,3953.9421219094,8.28246836576541
+Snowflake Marketplace,Environmental,Subscription,Daily,Startup,0,1298.2675171342958,7.1687859755155845
+Snowflake Marketplace,IoT_Sensor,One-off,Weekly,Enterprise,1,2013.9007991180156,7.607828816413976
+AWS Data Exchange,Marketing,Subscription,Weekly,Enterprise,0,2659.1328121207885,7.885755338141869
+AWS Data Exchange,Government,Subscription,Weekly,Enterprise,0,779.776066757225,6.6590067845633
+AWS Data Exchange,Healthcare,Subscription,Real-time,Academic_NGO,1,8060.92007544667,8.994782982266909
+AWS Data Exchange,Location,Subscription,Weekly,Enterprise,0,386.447310971756,5.956995535246244
+AWS Data Exchange,Retail,Free,Monthly,Startup,1,0.0,
+AWS Data Exchange,Location,One-off,Real-time,Startup,0,5165.746344593529,8.54980487151989
+AWS Data Exchange,Government,Subscription,Daily,Enterprise,0,245.30835098670315,5.502515994658475
+Snowflake Marketplace,Financial,Free,Static,Enterprise,0,0.0,
+AWS Data Exchange,Government,Subscription,Daily,Enterprise,0,5597.33823221453,8.63004644804896
+AWS Data Exchange,Financial,One-off,Monthly,Startup,0,2121.7772147228507,7.660009325312997
+AWS Data Exchange,Retail,One-off,Daily,Startup,1,2750.9028065646294,7.919684430080393
+AWS Data Exchange,Marketing,Subscription,Daily,Startup,1,366.2111360996797,5.903210041662473
+Snowflake Marketplace,Government,Subscription,Monthly,Enterprise,0,193.46612904048385,5.265102453429467
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,1,2779.3722302561973,7.929980364729703
+AWS Data Exchange,Marketing,Subscription,Daily,Academic_NGO,0,987.4795485891894,6.8951557862713875
+Snowflake Marketplace,Government,One-off,Daily,Startup,1,2859.450564783144,7.958384775142683
+AWS Data Exchange,Marketing,Subscription,Weekly,Enterprise,0,1904.1487735508965,7.551790349667914
+Snowflake Marketplace,Environmental,Subscription,Real-time,Academic_NGO,0,570.5016756369938,6.346516106435405
+AWS Data Exchange,Environmental,One-off,Daily,Startup,0,4463.184343690944,8.403617768658824
+AWS Data Exchange,Healthcare,Free,Static,Startup,0,0.0,
+Snowflake Marketplace,Environmental,One-off,Daily,Startup,0,8515.306091468516,9.049620539775246
+Snowflake Marketplace,Marketing,Subscription,Weekly,Startup,0,5152.766604116229,8.547289054097766
+Snowflake Marketplace,Media,Subscription,Daily,Startup,0,290.8910879216333,5.67294892880509
+AWS Data Exchange,Financial,Subscription,Monthly,Enterprise,1,1256.5188301960318,7.136100343099792
+AWS Data Exchange,Location,Free,Real-time,Enterprise,0,0.0,
+Snowflake Marketplace,Government,Subscription,Static,Academic_NGO,0,226.38033247246577,5.422216471850893
+AWS Data Exchange,Retail,Subscription,Daily,Enterprise,0,3879.6350096179467,8.263496358506393
+AWS Data Exchange,Healthcare,Subscription,Daily,Enterprise,0,10570.430733635476,9.265815828614462
+AWS Data Exchange,Environmental,Subscription,Real-time,Enterprise,0,2954.404955652498,7.991052540917294
+AWS Data Exchange,Location,Subscription,Real-time,Enterprise,0,4168.668027090878,8.335351845804245
+Snowflake Marketplace,Financial,Free,Daily,Startup,0,0.0,
+AWS Data Exchange,Healthcare,Subscription,Daily,Academic_NGO,0,1507.32148676668,7.318089504851004
+Snowflake Marketplace,Healthcare,Subscription,Monthly,Enterprise,0,28562.345996416636,10.259844555811666
+AWS Data Exchange,Marketing,Subscription,Daily,Enterprise,0,583.0598713628737,6.368289876382791
+AWS Data Exchange,Financial,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Government,One-off,Weekly,Academic_NGO,0,5716.516123693313,8.651114829531412
+AWS Data Exchange,Government,Subscription,Weekly,Startup,0,880.6123982795806,6.780617572577049
+Snowflake Marketplace,Environmental,One-off,Real-time,Enterprise,1,3114.693091256638,8.043885900286204
+Snowflake Marketplace,Marketing,One-off,Real-time,Startup,0,1805.3028883267757,7.498483661856458
+Snowflake Marketplace,Location,Subscription,Real-time,Academic_NGO,0,3049.034131034415,8.022580141098908
+Snowflake Marketplace,Retail,Free,Weekly,Startup,0,0.0,
+Snowflake Marketplace,Environmental,Subscription,Weekly,Academic_NGO,1,74.16726492419185,4.30632287929925
+Snowflake Marketplace,Financial,Subscription,Daily,Enterprise,0,23245.43075621976,10.053863865087413
+AWS Data Exchange,Media,Subscription,Monthly,Startup,0,120.27721963541461,4.789799242085069
+AWS Data Exchange,Retail,Subscription,Monthly,Enterprise,0,939.7887362972742,6.845655101384373
+AWS Data Exchange,Media,Subscription,Weekly,Startup,0,582.1840158836225,6.366786576251748
+AWS Data Exchange,IoT_Sensor,One-off,Monthly,Startup,0,2715.1331579129333,7.9065962764371545
+AWS Data Exchange,Marketing,Subscription,Daily,Startup,0,378.2123517357966,5.935455814960744
+AWS Data Exchange,Healthcare,Subscription,Real-time,Startup,1,11480.177656550033,9.348377145063052
+Snowflake Marketplace,Media,Subscription,Daily,Enterprise,0,16288.31944234199,9.698203531286003
+AWS Data Exchange,Retail,Subscription,Real-time,Enterprise,1,565.4937663984941,6.337699272327416
+AWS Data Exchange,Financial,Subscription,Weekly,Academic_NGO,1,3364.618822690344,8.121069958601678
+AWS Data Exchange,Financial,Subscription,Static,Academic_NGO,0,551.1805505158623,6.312062433365468
+AWS Data Exchange,Healthcare,Subscription,Real-time,Enterprise,0,11360.003970561971,9.337854041796382
+Snowflake Marketplace,Retail,Subscription,Real-time,Enterprise,0,4080.0089461403386,8.313854460077259
+AWS Data Exchange,Government,Subscription,Daily,Enterprise,0,482.48538561213127,6.1789506314335485
+Snowflake Marketplace,Financial,Subscription,Static,Startup,0,2397.949640574418,7.782369334772456
+Snowflake Marketplace,Marketing,One-off,Daily,Startup,1,12953.952775561907,9.4691562541875
+AWS Data Exchange,Healthcare,Free,Daily,Enterprise,1,0.0,
+AWS Data Exchange,Government,One-off,Real-time,Enterprise,0,3343.735336069919,8.114843825160284
+Snowflake Marketplace,Retail,Subscription,Real-time,Startup,0,327.6582596422318,5.791971173903409
+Snowflake Marketplace,Retail,Subscription,Static,Startup,1,166.79534067363292,5.116767555923182
+Snowflake Marketplace,Healthcare,Subscription,Static,Enterprise,1,1859.3398789335517,7.527976799914823
+Snowflake Marketplace,Healthcare,One-off,Real-time,Startup,1,26035.418281082762,10.167213131574442
+AWS Data Exchange,Location,Subscription,Static,Enterprise,0,3504.6917009017743,8.161857835800221
+AWS Data Exchange,Financial,Subscription,Weekly,Enterprise,1,2024.9682742491514,7.613309312380454
+AWS Data Exchange,Retail,Subscription,Monthly,Enterprise,0,1817.1156642021883,7.505005723058221
+Snowflake Marketplace,Retail,Subscription,Daily,Startup,0,357.01904196388614,5.877789119191589
+Snowflake Marketplace,Government,Free,Daily,Academic_NGO,0,0.0,
+AWS Data Exchange,Government,Subscription,Daily,Startup,0,2778.7057597749535,7.929740544242969
+AWS Data Exchange,Marketing,Subscription,Weekly,Startup,1,655.4685135018638,6.48535026772797
+AWS Data Exchange,IoT_Sensor,One-off,Real-time,Enterprise,0,3259.4417115995716,8.089311205584533
+AWS Data Exchange,Media,Subscription,Real-time,Enterprise,0,2028.1632966472791,7.61488588249866
+Snowflake Marketplace,Retail,One-off,Daily,Enterprise,0,1875.597474301609,7.536682540606297
+Snowflake Marketplace,Location,Subscription,Weekly,Enterprise,0,2272.886584669056,7.728805925849654
+Snowflake Marketplace,Healthcare,Subscription,Daily,Startup,0,33714.02945722757,10.425669334078602
+AWS Data Exchange,Financial,One-off,Weekly,Academic_NGO,0,1764.4483086297178,7.475593347491946
+AWS Data Exchange,Government,One-off,Static,Enterprise,1,336.0650962688633,5.817304880093674
+Snowflake Marketplace,Marketing,One-off,Real-time,Enterprise,0,2743.17826880853,7.916872479277339
+Snowflake Marketplace,Location,Subscription,Weekly,Startup,0,2933.9554290049105,7.984106767382669
+Snowflake Marketplace,Environmental,One-off,Daily,Enterprise,0,2539.227797581206,7.839615297089824
+Snowflake Marketplace,Marketing,Subscription,Monthly,Enterprise,1,405.67336492321255,6.005548315908357
+AWS Data Exchange,Healthcare,Subscription,Real-time,Startup,1,22876.985845650626,10.037886699300316
+AWS Data Exchange,Financial,Free,Weekly,Startup,1,0.0,
+AWS Data Exchange,Environmental,Subscription,Monthly,Enterprise,0,478.0795222799817,6.169777083256872
+AWS Data Exchange,Marketing,Free,Static,Enterprise,0,0.0,
+AWS Data Exchange,IoT_Sensor,Subscription,Weekly,Startup,0,4121.42823035374,8.32395504012447
+AWS Data Exchange,Marketing,Subscription,Daily,Enterprise,1,1359.1251120461106,7.214596471757797
+Snowflake Marketplace,Retail,One-off,Weekly,Enterprise,1,2953.2354574104543,7.990656613550173
+AWS Data Exchange,Marketing,One-off,Monthly,Startup,0,234.5089540272409,5.457493770642399
+AWS Data Exchange,Marketing,One-off,Weekly,Enterprise,1,7258.944787126955,8.889989751129306
+Snowflake Marketplace,Retail,Free,Real-time,Startup,1,0.0,
+AWS Data Exchange,Healthcare,Subscription,Static,Enterprise,0,4197.263205403877,8.342187974115353
+AWS Data Exchange,Financial,Subscription,Weekly,Academic_NGO,1,1545.5482324462175,7.343133969397216
+Snowflake Marketplace,Financial,Free,Weekly,Enterprise,0,0.0,
+AWS Data Exchange,IoT_Sensor,Subscription,Daily,Enterprise,0,745.065659668158,6.613472348278768
+AWS Data Exchange,Environmental,Subscription,Weekly,Enterprise,0,3865.496127086943,8.259845316842279
+AWS Data Exchange,Environmental,Subscription,Daily,Enterprise,0,1551.6017555624287,7.347043067018142
+AWS Data Exchange,Location,Free,Weekly,Academic_NGO,0,0.0,
+Snowflake Marketplace,Financial,Free,Real-time,Academic_NGO,0,0.0,
+Snowflake Marketplace,Financial,Subscription,Weekly,Enterprise,0,670.442194817106,6.507937486950236
+Snowflake Marketplace,Healthcare,One-off,Static,Enterprise,0,14763.295825533407,9.599899367640809
+Snowflake Marketplace,Marketing,Free,Real-time,Startup,0,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Static,Academic_NGO,0,475.83938911901157,6.165080379476017
+AWS Data Exchange,Healthcare,Subscription,Daily,Startup,0,696.4815907873249,6.546041361840152
+Snowflake Marketplace,Media,Free,Monthly,Enterprise,0,0.0,
+AWS Data Exchange,Location,Subscription,Monthly,Enterprise,1,4890.162373893256,8.494980787212778
+Snowflake Marketplace,Marketing,One-off,Weekly,Startup,1,1735.8581462139352,7.4592571788712
+Snowflake Marketplace,IoT_Sensor,Subscription,Weekly,Enterprise,1,6924.269457558256,8.842787831997317
+AWS Data Exchange,Healthcare,Free,Monthly,Startup,1,0.0,
+AWS Data Exchange,Environmental,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Retail,Free,Daily,Startup,1,0.0,
+AWS Data Exchange,Media,Subscription,Weekly,Enterprise,0,1798.7402864897226,7.494841858042298
+Snowflake Marketplace,Financial,Free,Monthly,Startup,0,0.0,
+Snowflake Marketplace,Media,Free,Weekly,Enterprise,1,0.0,
+AWS Data Exchange,Marketing,Subscription,Monthly,Startup,0,79.53085301819665,4.376145034652711
+AWS Data Exchange,Location,One-off,Daily,Enterprise,1,3598.1364027782083,8.18817132451401
+AWS Data Exchange,Healthcare,Subscription,Monthly,Enterprise,1,4853.469120921126,8.487449010902955
+AWS Data Exchange,Government,Subscription,Real-time,Enterprise,1,2461.3490395141716,7.808464868661948
+AWS Data Exchange,Marketing,Subscription,Weekly,Enterprise,1,5086.551995473932,8.53435547243142
+AWS Data Exchange,Location,Subscription,Real-time,Startup,0,1095.1173552845935,6.998616810283787
+Snowflake Marketplace,Environmental,Subscription,Daily,Startup,0,2940.8252837714895,7.986445529707206
+AWS Data Exchange,Location,Subscription,Daily,Startup,0,9618.169341458362,9.171409228405253
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,0,892.2190262511906,6.793711647563392
+Snowflake Marketplace,Financial,One-off,Weekly,Startup,0,8358.439642800211,9.031027043060229
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,1,4023.599601394954,8.29993220419341
+Snowflake Marketplace,Financial,Subscription,Daily,Enterprise,1,2688.286555846619,7.896659301558768
+Snowflake Marketplace,Financial,One-off,Daily,Enterprise,0,12321.058233610747,9.419065128983984
+AWS Data Exchange,Environmental,One-off,Daily,Enterprise,0,2731.8343219140916,7.912728575335716
+AWS Data Exchange,Financial,Subscription,Daily,Startup,0,2259.194627244874,7.722763669128989
+AWS Data Exchange,Location,Subscription,Real-time,Startup,0,5512.986593519078,8.614861786792618
+AWS Data Exchange,Retail,One-off,Weekly,Startup,1,726.1165948965015,6.587710600961146
+AWS Data Exchange,Marketing,Subscription,Weekly,Enterprise,0,822.7934705151531,6.71270522205839
+Snowflake Marketplace,Environmental,Subscription,Weekly,Enterprise,0,3203.833017499031,8.072103189944672
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,0,2208.0236172341615,7.699853103550906
+AWS Data Exchange,Financial,One-off,Daily,Enterprise,1,15621.603905445994,9.6564101009292
+AWS Data Exchange,Financial,Subscription,Monthly,Enterprise,1,5146.238482914941,8.546021335124834
+Snowflake Marketplace,Financial,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,0,1555.0369893856055,7.349254611716661
+AWS Data Exchange,Financial,Free,Real-time,Startup,0,0.0,
+AWS Data Exchange,Financial,One-off,Daily,Startup,0,3260.845913585838,8.089741923395984
+Snowflake Marketplace,Financial,Free,Daily,Academic_NGO,1,0.0,
+AWS Data Exchange,Healthcare,Subscription,Daily,Academic_NGO,0,3173.9697890853863,8.062738382794485
+Snowflake Marketplace,Location,Free,Weekly,Startup,0,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Weekly,Enterprise,0,3405.058989312803,8.133017542754489
+AWS Data Exchange,Marketing,Subscription,Weekly,Startup,1,790.5255859835207,6.672698022961305
+Snowflake Marketplace,Environmental,One-off,Weekly,Startup,0,4650.895196494129,8.444814995427777
+AWS Data Exchange,Financial,One-off,Monthly,Enterprise,1,32961.134965873316,10.403084418074764
+Snowflake Marketplace,IoT_Sensor,Free,Weekly,Enterprise,0,0.0,
+Snowflake Marketplace,Environmental,Free,Static,Startup,0,0.0,
+AWS Data Exchange,Financial,Subscription,Real-time,Enterprise,0,1773.8360740613955,7.480899753899494
+AWS Data Exchange,Retail,Subscription,Daily,Enterprise,0,919.8067170767445,6.824163557837089
+Snowflake Marketplace,Media,One-off,Real-time,Startup,1,3906.2572156485353,8.27033496068903
+AWS Data Exchange,Financial,Subscription,Weekly,Enterprise,0,5611.263838402103,8.632531256281936
+AWS Data Exchange,Location,Subscription,Monthly,Enterprise,0,10708.817655413604,9.278822761027747
+AWS Data Exchange,Retail,Subscription,Daily,Enterprise,0,6986.551262893596,8.851742331914839
+Snowflake Marketplace,IoT_Sensor,Subscription,Static,Enterprise,0,147.6563562619662,4.994887656785618
+Snowflake Marketplace,Financial,Subscription,Real-time,Enterprise,0,16146.685951922802,9.68947010337823
+AWS Data Exchange,Location,Subscription,Static,Startup,0,696.8933113590456,6.546632330692927
+AWS Data Exchange,Healthcare,Subscription,Daily,Enterprise,1,4658.308870888916,8.446407758011652
+AWS Data Exchange,Marketing,Subscription,Real-time,Enterprise,0,5045.887976159175,8.526328928431218
+Snowflake Marketplace,Marketing,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Healthcare,Subscription,Daily,Academic_NGO,1,89711.05837567427,11.404349322228406
+Snowflake Marketplace,Healthcare,Subscription,Daily,Enterprise,0,11157.175803527001,9.319838139709065
+AWS Data Exchange,IoT_Sensor,Subscription,Daily,Enterprise,1,1218.9418796664706,7.105738449646059
+Snowflake Marketplace,Financial,Subscription,Monthly,Academic_NGO,0,2546.218159794099,7.842364462718245
+AWS Data Exchange,Location,Free,Weekly,Startup,1,0.0,
+AWS Data Exchange,Environmental,One-off,Daily,Enterprise,0,3186.020630574957,8.06652796583351
+AWS Data Exchange,Retail,Subscription,Weekly,Startup,1,11050.564317690023,9.310236775116108
+Snowflake Marketplace,Marketing,Subscription,Weekly,Enterprise,1,2326.085505527525,7.751942093162849
+Snowflake Marketplace,Marketing,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Financial,Free,Daily,Enterprise,1,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Real-time,Enterprise,0,6632.923695068399,8.799800965625284
+Snowflake Marketplace,Marketing,One-off,Daily,Startup,0,11147.30322076924,9.318952884026405
+Snowflake Marketplace,Location,Subscription,Weekly,Enterprise,0,1003.9828570502893,6.911730225454795
+AWS Data Exchange,Location,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Healthcare,Subscription,Weekly,Startup,0,658.0553256855893,6.4892890093797
+AWS Data Exchange,Financial,Free,Weekly,Startup,0,0.0,
+Snowflake Marketplace,Location,One-off,Real-time,Enterprise,0,16473.882124158074,9.709531504210211
+Snowflake Marketplace,Location,One-off,Weekly,Startup,1,5708.994993307672,8.649798278981509
+Snowflake Marketplace,Location,Subscription,Daily,Enterprise,1,22654.968567267762,10.02813446964796
+AWS Data Exchange,Financial,Subscription,Static,Startup,0,2364.4578349868216,7.7683040293966235
+AWS Data Exchange,Retail,Subscription,Daily,Startup,0,3376.5250914465005,8.124602380187197
+Snowflake Marketplace,Marketing,Subscription,Monthly,Academic_NGO,0,235.61130555193904,5.462183436839793
+Snowflake Marketplace,Environmental,Subscription,Weekly,Enterprise,0,1087.4950178159854,6.991632181633711
+Snowflake Marketplace,IoT_Sensor,Free,Real-time,Enterprise,0,0.0,
+Snowflake Marketplace,Marketing,Subscription,Weekly,Enterprise,0,2049.0761223177483,7.6251442985091655
+Snowflake Marketplace,Financial,Subscription,Static,Enterprise,0,1615.9109297749126,7.3876541198484595
+AWS Data Exchange,Marketing,Free,Weekly,Enterprise,1,0.0,
+AWS Data Exchange,Marketing,One-off,Monthly,Academic_NGO,0,257.94218202425964,5.5527354591261435
+Snowflake Marketplace,IoT_Sensor,Free,Monthly,Enterprise,0,0.0,
+Snowflake Marketplace,Healthcare,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Financial,Subscription,Daily,Startup,0,5638.770321577171,8.637421292631371
+AWS Data Exchange,Location,Subscription,Weekly,Enterprise,0,5253.392245168996,8.566629288862798
+Snowflake Marketplace,Healthcare,Free,Daily,Startup,0,0.0,
+AWS Data Exchange,Environmental,Subscription,Monthly,Enterprise,0,1269.5631046688748,7.146428108195158
+AWS Data Exchange,Marketing,Subscription,Monthly,Enterprise,0,1339.8185268820773,7.200289456073856
+AWS Data Exchange,Healthcare,One-off,Daily,Enterprise,1,19353.279741641938,9.870617179787246
+Snowflake Marketplace,Government,Subscription,Daily,Enterprise,1,1100.2894583149794,7.003328568092881
+Snowflake Marketplace,Marketing,Subscription,Monthly,Academic_NGO,0,1268.9809037338339,7.14596941932207
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,0,1996.5528617904642,7.599177403383146
+Snowflake Marketplace,Financial,One-off,Monthly,Enterprise,0,345.78768007247527,5.845824945293745
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,0,20239.177356577096,9.915375478137504
+AWS Data Exchange,Location,Subscription,Weekly,Enterprise,0,1268.7585449767716,7.145794177724479
+Snowflake Marketplace,Financial,Free,Real-time,Academic_NGO,0,0.0,
+Snowflake Marketplace,Financial,Subscription,Weekly,Enterprise,0,5561.6060454242015,8.623642202624135
+Snowflake Marketplace,Location,Subscription,Daily,Startup,0,1818.194879176515,7.505599463259039
+Snowflake Marketplace,Financial,Free,Weekly,Academic_NGO,0,0.0,
+Snowflake Marketplace,Retail,Free,Real-time,Enterprise,1,0.0,
+AWS Data Exchange,Financial,One-off,Weekly,Academic_NGO,1,7485.964384112415,8.920785130787069
+AWS Data Exchange,Marketing,One-off,Monthly,Enterprise,1,360.0179854485109,5.886153989781414
+AWS Data Exchange,Healthcare,Subscription,Daily,Enterprise,0,22064.935822941363,10.001745013153819
+AWS Data Exchange,Government,Subscription,Real-time,Enterprise,1,1447.9474279289302,7.277902265607643
+Snowflake Marketplace,Financial,Subscription,Real-time,Startup,0,3713.554258832177,8.219744718240571
+AWS Data Exchange,Healthcare,Subscription,Weekly,Academic_NGO,1,2401.4560451601906,7.783830517860212
+Snowflake Marketplace,Government,Subscription,Weekly,Enterprise,0,93.32214892747893,4.536057474400733
+Snowflake Marketplace,Retail,Subscription,Weekly,Startup,1,1430.7304059869757,7.265940366271078
+Snowflake Marketplace,Retail,One-off,Daily,Enterprise,0,640.8288700227382,6.46276244783345
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,1,687.5418569636674,6.533122710543684
+Snowflake Marketplace,Financial,Subscription,Weekly,Enterprise,1,568.8672289699385,6.343647065896218
+AWS Data Exchange,Environmental,Subscription,Daily,Academic_NGO,0,3294.4144039828357,8.099983708526848
+AWS Data Exchange,Media,Subscription,Static,Startup,0,258.4695825578793,5.554778018003198
+Snowflake Marketplace,Marketing,Subscription,Real-time,Enterprise,1,9922.051578540104,9.202514991249025
+AWS Data Exchange,Marketing,One-off,Weekly,Enterprise,0,1357.3265425269453,7.213272266499841
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,1,453.2498862351242,6.116443598636858
+Snowflake Marketplace,IoT_Sensor,Subscription,Daily,Enterprise,0,490.2763395022378,6.1949691903078605
+AWS Data Exchange,Financial,Subscription,Weekly,Enterprise,0,15320.445894350654,9.636943548246398
+Snowflake Marketplace,Location,Free,Weekly,Academic_NGO,0,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Static,Enterprise,0,1020.8130676627005,6.9283547139023
+Snowflake Marketplace,Marketing,One-off,Real-time,Enterprise,1,5709.30457128301,8.649852503863885
+AWS Data Exchange,Location,Subscription,Real-time,Enterprise,0,11664.626114378858,9.364316132024056
+AWS Data Exchange,Financial,Subscription,Weekly,Academic_NGO,0,6530.306310989437,8.784209129438226
+Snowflake Marketplace,Marketing,Free,Weekly,Startup,0,0.0,
+AWS Data Exchange,Location,One-off,Daily,Enterprise,0,2424.2906206626644,7.793294233015263
+Snowflake Marketplace,Marketing,One-off,Real-time,Startup,1,522.5570798669644,6.258734221636826
+Snowflake Marketplace,Financial,Free,Real-time,Enterprise,1,0.0,
+Snowflake Marketplace,Marketing,Free,Monthly,Enterprise,0,0.0,
+AWS Data Exchange,Marketing,Subscription,Daily,Enterprise,1,716.0172829086154,6.57370430480985
+AWS Data Exchange,Financial,One-off,Daily,Enterprise,1,2256.4715209009905,7.7215575982705005
+Snowflake Marketplace,Location,One-off,Daily,Enterprise,0,5152.142104740332,8.547167849845636
+AWS Data Exchange,Financial,Subscription,Daily,Academic_NGO,1,1785.8457901320187,7.487647413997536
+AWS Data Exchange,Financial,Subscription,Real-time,Startup,0,5427.535522876031,8.59924044671049
+Snowflake Marketplace,Government,Free,Daily,Startup,0,0.0,
+Snowflake Marketplace,Location,Subscription,Real-time,Enterprise,1,3232.422711079138,8.080987200407849
+Snowflake Marketplace,Retail,Free,Monthly,Enterprise,0,0.0,
+Snowflake Marketplace,Location,Free,Daily,Startup,1,0.0,
+AWS Data Exchange,Environmental,Subscription,Weekly,Enterprise,1,5416.92238734497,8.597283107946797
+Snowflake Marketplace,IoT_Sensor,Free,Monthly,Enterprise,0,0.0,
+Snowflake Marketplace,Marketing,Subscription,Weekly,Enterprise,1,464.1979779564061,6.140311137855852
+AWS Data Exchange,Marketing,Subscription,Weekly,Startup,0,252.12335526376873,5.529918472757882
+AWS Data Exchange,Healthcare,One-off,Daily,Enterprise,0,2337.796690436271,7.756964179498218
+Snowflake Marketplace,Location,Subscription,Daily,Enterprise,0,2832.1360165927454,7.948786482118171
+Snowflake Marketplace,Media,Free,Weekly,Startup,1,0.0,
+Snowflake Marketplace,Retail,Free,Static,Enterprise,0,0.0,
+Snowflake Marketplace,Government,Subscription,Weekly,Enterprise,0,170.90678663041274,5.141118300453107
+AWS Data Exchange,Financial,Subscription,Weekly,Enterprise,1,5596.699938432456,8.6299324063112
+AWS Data Exchange,IoT_Sensor,Subscription,Weekly,Enterprise,1,871.7640680696957,6.770518823159642
+Snowflake Marketplace,Media,One-off,Daily,Startup,1,482.1232513670815,6.1781997895932825
+Snowflake Marketplace,Financial,Free,Real-time,Enterprise,0,0.0,
+Snowflake Marketplace,Financial,One-off,Weekly,Enterprise,0,3099.462873077199,8.03898410871153
+Snowflake Marketplace,IoT_Sensor,Subscription,Static,Academic_NGO,0,386.190099327478,5.956329733538092
+AWS Data Exchange,Marketing,Subscription,Real-time,Academic_NGO,1,26336.402813405235,10.17870739852254
+AWS Data Exchange,Retail,Subscription,Weekly,Academic_NGO,0,3749.7601778263183,8.229447164339755
+Snowflake Marketplace,Financial,Free,Daily,Enterprise,0,0.0,
+Snowflake Marketplace,IoT_Sensor,Subscription,Weekly,Enterprise,1,2189.6331133259896,7.691489280614488
+Snowflake Marketplace,Location,Free,Real-time,Academic_NGO,0,0.0,
+Snowflake Marketplace,Financial,One-off,Daily,Startup,1,1259.2494001181722,7.138271108245398
+Snowflake Marketplace,Financial,Free,Weekly,Enterprise,1,0.0,
+AWS Data Exchange,Retail,Subscription,Daily,Enterprise,1,5371.439474855229,8.588851210213873
+AWS Data Exchange,Environmental,Subscription,Weekly,Enterprise,0,464.5275131907759,6.141020788342116
+AWS Data Exchange,Marketing,Free,Monthly,Academic_NGO,0,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Static,Enterprise,1,4021.9043824908026,8.299510796427624
+AWS Data Exchange,Retail,Free,Daily,Enterprise,1,0.0,
+AWS Data Exchange,Healthcare,Subscription,Daily,Enterprise,1,9520.865004086538,9.161240985431526
+AWS Data Exchange,Retail,Subscription,Real-time,Startup,0,2464.6030909994074,7.809786055661886
+AWS Data Exchange,Healthcare,Subscription,Static,Startup,1,2153.2545877475504,7.6747357382823855
+Snowflake Marketplace,Healthcare,One-off,Static,Enterprise,1,459.53417182299444,6.130213306436487
+AWS Data Exchange,Healthcare,Subscription,Weekly,Startup,1,11541.50425368454,9.353704882839592
+AWS Data Exchange,Location,Subscription,Monthly,Academic_NGO,1,3533.9664588080354,8.170176161835178
+Snowflake Marketplace,IoT_Sensor,Subscription,Weekly,Enterprise,1,1599.4855008850961,7.377437294568929
+AWS Data Exchange,Marketing,Subscription,Weekly,Enterprise,0,2431.882393157861,7.796420883840231
+AWS Data Exchange,Location,Subscription,Real-time,Enterprise,0,1108.099611552335,7.010401765389322
+AWS Data Exchange,Retail,One-off,Weekly,Startup,0,2911.1404069396203,7.976300175814874
+Snowflake Marketplace,Healthcare,Free,Real-time,Enterprise,0,0.0,
+AWS Data Exchange,Marketing,Free,Monthly,Startup,0,0.0,
+Snowflake Marketplace,Media,Free,Monthly,Startup,0,0.0,
+AWS Data Exchange,Environmental,Subscription,Weekly,Enterprise,0,1274.93979310944,7.1506542353869404
+AWS Data Exchange,Financial,One-off,Real-time,Academic_NGO,0,6586.4167867465485,8.792764744679278
+AWS Data Exchange,Media,Subscription,Daily,Enterprise,0,443.5028417104349,6.094704209193447
+AWS Data Exchange,Environmental,Subscription,Daily,Enterprise,1,2459.3196494074054,7.807640025393636
+Snowflake Marketplace,Location,Subscription,Daily,Startup,1,1674.95430160758,7.423541161264649
+Snowflake Marketplace,Financial,Subscription,Real-time,Startup,0,4342.831180748298,8.376281760203963
+Snowflake Marketplace,IoT_Sensor,Free,Static,Enterprise,1,0.0,
+AWS Data Exchange,Environmental,Subscription,Weekly,Academic_NGO,0,764.833994471725,6.639658809587924
+AWS Data Exchange,Marketing,Subscription,Daily,Academic_NGO,0,6123.465928946686,8.719883543462306
+Snowflake Marketplace,Retail,Subscription,Daily,Enterprise,0,1470.895758479278,7.293626853698377
+AWS Data Exchange,IoT_Sensor,Free,Daily,Academic_NGO,0,0.0,
+AWS Data Exchange,Financial,Subscription,Weekly,Enterprise,1,25233.83651773207,10.135941091816152
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,1,19634.318729643583,9.885034269676963
+AWS Data Exchange,Location,Subscription,Monthly,Enterprise,0,477.4975023724081,6.168558929273405
+Snowflake Marketplace,IoT_Sensor,Free,Daily,Academic_NGO,0,0.0,
+Snowflake Marketplace,Financial,One-off,Static,Startup,0,884.9810889358093,6.785566276345508
+Snowflake Marketplace,Marketing,Subscription,Monthly,Enterprise,0,1425.81112376681,7.2624961404252995
+AWS Data Exchange,IoT_Sensor,Subscription,Daily,Enterprise,0,4640.201970821673,8.442513172467303
+AWS Data Exchange,Retail,Subscription,Static,Startup,0,497.67810627968834,6.209953495103255
+AWS Data Exchange,Location,Subscription,Real-time,Enterprise,1,1798.7415743885192,7.494842574042459
+AWS Data Exchange,Retail,Subscription,Monthly,Academic_NGO,1,239.9554745853836,5.4804533835696505
+AWS Data Exchange,Financial,Free,Daily,Startup,0,0.0,
+Snowflake Marketplace,Retail,Subscription,Monthly,Enterprise,1,624.0537782934254,6.436236547818413
+Snowflake Marketplace,Financial,Subscription,Monthly,Academic_NGO,0,2474.7423177801525,7.813891555554328
+AWS Data Exchange,Healthcare,Free,Monthly,Enterprise,0,0.0,
+Snowflake Marketplace,IoT_Sensor,Subscription,Monthly,Academic_NGO,0,2479.6962264410795,7.815891342318322
+Snowflake Marketplace,Financial,One-off,Daily,Startup,1,22432.300992692886,10.018257207749507
+Snowflake Marketplace,Location,Subscription,Real-time,Startup,1,1686.8679106609277,7.430628781117082
+Snowflake Marketplace,IoT_Sensor,Subscription,Daily,Enterprise,0,1492.715443738415,7.308352185762677
+AWS Data Exchange,IoT_Sensor,Free,Real-time,Academic_NGO,0,0.0,
+AWS Data Exchange,Environmental,Subscription,Weekly,Enterprise,1,3798.2010504551777,8.242282825846685
+AWS Data Exchange,Environmental,One-off,Daily,Enterprise,0,2399.98299123934,7.783216929327316
+Snowflake Marketplace,Marketing,Subscription,Static,Enterprise,1,2470.024452386112,7.811983329324483
+AWS Data Exchange,Location,Subscription,Weekly,Enterprise,0,3298.697886235757,8.10128308965887
+AWS Data Exchange,Location,Subscription,Monthly,Enterprise,0,474.33379722995784,6.161911287418365
+AWS Data Exchange,Financial,Subscription,Real-time,Startup,0,12147.673409633422,9.40489294151329
+AWS Data Exchange,Media,Subscription,Monthly,Academic_NGO,0,1089.6996020501658,6.993657342790671
+Snowflake Marketplace,Marketing,Free,Static,Enterprise,0,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Daily,Startup,1,2230.530677346648,7.709994808047669
+AWS Data Exchange,Healthcare,Free,Weekly,Enterprise,0,0.0,
+AWS Data Exchange,Media,Subscription,Weekly,Academic_NGO,1,359.70137020192055,5.885274159985178
+AWS Data Exchange,Financial,One-off,Real-time,Startup,1,31579.89699464215,10.360276026076706
+AWS Data Exchange,Marketing,One-off,Daily,Enterprise,1,32820.24751356911,10.39880090616254
+AWS Data Exchange,Marketing,One-off,Daily,Startup,0,1276.1178163508139,7.15157779220568
+AWS Data Exchange,Marketing,One-off,Real-time,Enterprise,0,1713.4063442051972,7.446238682222515
+AWS Data Exchange,Financial,One-off,Daily,Enterprise,0,9703.49632877068,9.180241545811343
+Snowflake Marketplace,Retail,One-off,Real-time,Startup,1,3859.693628347759,8.258343088414478
+Snowflake Marketplace,Media,Subscription,Real-time,Enterprise,0,1308.8309343354654,7.176889601216678
+AWS Data Exchange,Marketing,Subscription,Real-time,Enterprise,0,26970.643944151077,10.20250429216135
+AWS Data Exchange,Environmental,Free,Static,Enterprise,0,0.0,
+Snowflake Marketplace,Media,One-off,Weekly,Startup,0,2253.957354770887,7.720442774620778
+AWS Data Exchange,Environmental,One-off,Static,Enterprise,0,681.4267819694172,6.524188808782938
+Snowflake Marketplace,Financial,Subscription,Daily,Enterprise,0,37664.703650107476,10.536478692184437
+Snowflake Marketplace,Marketing,Subscription,Daily,Startup,1,9809.231818538941,9.191079243534004
+AWS Data Exchange,Marketing,Subscription,Daily,Startup,0,1054.7780098559408,6.961085606571202
+AWS Data Exchange,Healthcare,Subscription,Daily,Enterprise,0,2746.463444406326,7.918069342811092
+Snowflake Marketplace,IoT_Sensor,Subscription,Real-time,Enterprise,0,6022.177201730186,8.703204134336115
+AWS Data Exchange,Media,Subscription,Weekly,Enterprise,0,557.0085253791786,6.322580545697365
+Snowflake Marketplace,Media,Subscription,Daily,Enterprise,0,928.9392869805685,6.834043383589501
+Snowflake Marketplace,Healthcare,Subscription,Weekly,Enterprise,1,3036.2317314975035,8.018372463500423
+Snowflake Marketplace,Financial,One-off,Weekly,Startup,0,669.8499143973968,6.507053678929297
+AWS Data Exchange,Government,Subscription,Real-time,Startup,1,791.2279890994747,6.673586155187701
+Snowflake Marketplace,Retail,Free,Real-time,Startup,0,0.0,
+AWS Data Exchange,Financial,Subscription,Monthly,Enterprise,0,2310.1804247675273,7.745080906425696
+AWS Data Exchange,Media,Subscription,Daily,Startup,1,2545.0029757441444,7.841887098235077
+Snowflake Marketplace,Retail,Subscription,Real-time,Enterprise,0,489.04626531505545,6.192457097095658
+AWS Data Exchange,Marketing,Subscription,Static,Academic_NGO,0,1781.4947276863668,7.485208025561504
+Snowflake Marketplace,Marketing,Subscription,Real-time,Startup,0,1366.8112505862182,7.22023575154046
+Snowflake Marketplace,Healthcare,Subscription,Weekly,Enterprise,0,1573.9000120563064,7.361311902217703
+AWS Data Exchange,Financial,Subscription,Static,Startup,1,3637.584781060659,8.199075218716217
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,0,5777.430094840367,8.66171424252369
+AWS Data Exchange,Retail,Subscription,Real-time,Startup,1,3138.422585652907,8.051475591419571
+AWS Data Exchange,Financial,One-off,Real-time,Enterprise,1,15116.373250683122,9.623533756588655
+AWS Data Exchange,Location,One-off,Daily,Enterprise,0,1899.5090417937558,7.5493507327078255
+Snowflake Marketplace,Healthcare,Subscription,Real-time,Academic_NGO,1,1123.8100693001043,7.024480038684321
+AWS Data Exchange,Marketing,Subscription,Weekly,Enterprise,0,694.8113685742591,6.543640396602488
+AWS Data Exchange,Media,Subscription,Real-time,Startup,1,244.153460532869,5.4977969642055795
+Snowflake Marketplace,Location,Subscription,Daily,Enterprise,0,69153.55978849274,11.144084814994109
+AWS Data Exchange,Location,Free,Static,Startup,1,0.0,
+Snowflake Marketplace,IoT_Sensor,Subscription,Monthly,Startup,0,156.95259863136042,5.055943840215951
+AWS Data Exchange,Healthcare,Subscription,Weekly,Enterprise,0,1166.5402327925137,7.0617975810446065
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,1,4888.03726393249,8.494546124376482
+Snowflake Marketplace,Healthcare,One-off,Weekly,Enterprise,1,7309.19170338735,8.89688797253804
+Snowflake Marketplace,Financial,One-off,Weekly,Enterprise,0,9859.092066732504,9.196149360875339
+Snowflake Marketplace,Financial,Subscription,Daily,Enterprise,0,1959.3708056242829,7.580378683148772
+Snowflake Marketplace,Marketing,Subscription,Real-time,Startup,1,2374.31078600198,7.772462478986331
+Snowflake Marketplace,Healthcare,Subscription,Monthly,Academic_NGO,1,1728.9791527581303,7.455286428212179
+AWS Data Exchange,Media,Subscription,Daily,Academic_NGO,1,922.3851770313679,6.82696289882504
+AWS Data Exchange,Healthcare,Subscription,Daily,Startup,1,826.0381029269897,6.716640901908609
+Snowflake Marketplace,Marketing,Subscription,Daily,Startup,1,633.9604206665076,6.451986524517711
+Snowflake Marketplace,Environmental,Subscription,Daily,Startup,1,821.2782083221404,6.710861917241988
+Snowflake Marketplace,Financial,Subscription,Monthly,Enterprise,0,3315.9462438447417,8.106498304979254
+AWS Data Exchange,Environmental,Subscription,Weekly,Academic_NGO,0,26107.64792110058,10.169983574184654
+AWS Data Exchange,Financial,Subscription,Weekly,Startup,1,4107.525912327387,8.320576158431363
+Snowflake Marketplace,Government,One-off,Real-time,Enterprise,1,1000.0911703645772,6.907846445190949
+AWS Data Exchange,Financial,One-off,Daily,Enterprise,0,18826.707900958758,9.843031773703348
+Snowflake Marketplace,Healthcare,Subscription,Daily,Enterprise,0,7185.420321062687,8.879809296602035
+Snowflake Marketplace,Financial,Subscription,Real-time,Enterprise,1,6228.880063263217,8.736951830495522
+AWS Data Exchange,Government,Subscription,Daily,Academic_NGO,0,1397.8762545170741,7.242709402793769
+Snowflake Marketplace,Marketing,One-off,Weekly,Enterprise,0,20688.630969526137,9.937339599846919
+Snowflake Marketplace,Marketing,One-off,Real-time,Enterprise,0,960.0658918300182,6.867001919429384
+AWS Data Exchange,Financial,Subscription,Weekly,Academic_NGO,0,3415.2003130034486,8.135991427093856
+Snowflake Marketplace,IoT_Sensor,Free,Daily,Enterprise,0,0.0,
+AWS Data Exchange,Location,Subscription,Real-time,Enterprise,0,13880.061654742289,9.538208676035245
+Snowflake Marketplace,Retail,One-off,Daily,Enterprise,0,719.7070910567119,6.578844311260429
+AWS Data Exchange,Location,Subscription,Static,Startup,1,835.8361411774674,6.728432590497294
+Snowflake Marketplace,Financial,Free,Monthly,Academic_NGO,0,0.0,
+AWS Data Exchange,Financial,Subscription,Static,Enterprise,1,5908.2887009611995,8.684111508564538
+AWS Data Exchange,Marketing,One-off,Daily,Academic_NGO,1,6423.230371808609,8.767676443313743
+Snowflake Marketplace,Marketing,Subscription,Real-time,Enterprise,0,1027.9925588807246,6.935363207546038
+AWS Data Exchange,Financial,One-off,Weekly,Academic_NGO,1,5404.624052168731,8.595010172088756
+AWS Data Exchange,IoT_Sensor,Subscription,Daily,Startup,0,676.4056541200355,6.516792976126146
+Snowflake Marketplace,Healthcare,Free,Monthly,Startup,1,0.0,
+Snowflake Marketplace,Marketing,One-off,Real-time,Enterprise,0,4500.2025504680705,8.411877685960564
+Snowflake Marketplace,Healthcare,Free,Daily,Academic_NGO,1,0.0,
+Snowflake Marketplace,Healthcare,Subscription,Real-time,Startup,0,59802.83799014207,10.998808396841758
+AWS Data Exchange,Marketing,Subscription,Daily,Enterprise,0,6406.173043044875,8.76501734245567
+AWS Data Exchange,Financial,Subscription,Weekly,Startup,0,555.0016201257779,6.3189710328877196
+AWS Data Exchange,Financial,One-off,Daily,Enterprise,1,4828.302276336923,8.482250189275149
+Snowflake Marketplace,Retail,Subscription,Daily,Academic_NGO,1,2310.2532652384634,7.745112436137333
+Snowflake Marketplace,Media,Subscription,Daily,Enterprise,0,12432.01895156585,9.42803059702437
+Snowflake Marketplace,Healthcare,Subscription,Daily,Startup,1,451.66651184758484,6.112944101872758
+Snowflake Marketplace,Location,Subscription,Monthly,Enterprise,0,259.2402648696717,5.557755295275054
+AWS Data Exchange,Environmental,One-off,Monthly,Enterprise,1,12748.807030483276,9.453192979972373
+AWS Data Exchange,Healthcare,Subscription,Static,Enterprise,0,3615.514868572384,8.192989550059153
+AWS Data Exchange,Financial,Free,Monthly,Enterprise,1,0.0,
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,0,16506.79530878731,9.711527412003335
+AWS Data Exchange,Environmental,Subscription,Weekly,Enterprise,0,121.0631599859769,4.796312392766
+Snowflake Marketplace,Environmental,Free,Daily,Startup,0,0.0,
+AWS Data Exchange,Financial,Subscription,Daily,Enterprise,0,10629.087948354336,9.271349667876462
+AWS Data Exchange,Location,Subscription,Monthly,Enterprise,0,5324.2934465728995,8.580035295684452
+AWS Data Exchange,Location,Subscription,Real-time,Startup,0,960.9690515312315,6.867942204009712
+Snowflake Marketplace,Environmental,One-off,Monthly,Enterprise,1,2123.5532904568763,7.660846045015021
+Snowflake Marketplace,Financial,Subscription,Daily,Academic_NGO,0,1267.5573095691348,7.144846949093392
+AWS Data Exchange,Financial,Free,Weekly,Academic_NGO,0,0.0,
+AWS Data Exchange,IoT_Sensor,Free,Weekly,Startup,0,0.0,
+Snowflake Marketplace,Financial,One-off,Monthly,Startup,0,3111.593581760433,8.042890279649052
+AWS Data Exchange,Environmental,Subscription,Weekly,Academic_NGO,0,250.48746464612563,5.523408877939978
+Snowflake Marketplace,Location,One-off,Weekly,Enterprise,0,6294.208912489885,8.747385269397917
+Snowflake Marketplace,Financial,Subscription,Real-time,Enterprise,0,10964.860950566544,9.3024509795647
+AWS Data Exchange,Location,Subscription,Daily,Enterprise,0,2500.325097066517,7.824176041228584
+AWS Data Exchange,IoT_Sensor,Subscription,Real-time,Startup,0,3105.8196830536485,8.041032947629866
+Snowflake Marketplace,Retail,Subscription,Weekly,Enterprise,0,214.13375221498828,5.366600830134641
+AWS Data Exchange,Retail,One-off,Daily,Startup,0,1741.4957088565093,7.462499625752781
+AWS Data Exchange,Healthcare,One-off,Weekly,Academic_NGO,0,2293.0176712946277,7.737623989454736
+Snowflake Marketplace,Environmental,Free,Real-time,Academic_NGO,1,0.0,
+Snowflake Marketplace,Location,Subscription,Real-time,Enterprise,0,1442.385155221256,7.274053380114888
+Snowflake Marketplace,Location,Subscription,Weekly,Enterprise,1,7304.804385663352,8.89628754568298
+Snowflake Marketplace,Retail,Subscription,Real-time,Startup,0,5282.250334941824,8.572107485702558
+AWS Data Exchange,Financial,Free,Real-time,Startup,1,0.0,
+AWS Data Exchange,Financial,Subscription,Real-time,Enterprise,1,20274.95665941188,9.91714174134443
