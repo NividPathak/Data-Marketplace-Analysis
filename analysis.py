@@ -1,7 +1,4 @@
-"""
-Empirical Analysis: Data Pricing in Commercial Data Marketplaces
-CSCI 7000-017 Group Project — Anjana Anand & Nivid Pathak
-"""
+
 
 import numpy as np
 import pandas as pd
@@ -101,9 +98,9 @@ print(f"Dataset: {len(df)} rows  |  Paid: {(df.pricing_model != 'Free').sum()}"
 
 paid = df[df['pricing_model'] != 'Free'].copy().reset_index(drop=True)
 
-# ══════════════════════════════════════════════════════════════════════════════
+
 # 2.  DESCRIPTIVE STATISTICS
-# ══════════════════════════════════════════════════════════════════════════════
+
 
 desc = (paid.groupby('category')['price']
             .agg(N='count',
@@ -125,9 +122,9 @@ plat_tbl = (paid.groupby('platform')['price']
 print("\nPlatform comparison:")
 print(plat_tbl.to_string(index=False))
 
-# ══════════════════════════════════════════════════════════════════════════════
-# 3.  OLS REGRESSION  (HC3 robust standard errors, numpy-only)
-# ══════════════════════════════════════════════════════════════════════════════
+
+# 3.  OLS REGRESSION 
+
 
 def ols_hc3(X_arr, y_arr, col_names):
     """OLS with HC3 heteroskedasticity-robust standard errors."""
@@ -191,9 +188,7 @@ reg_tbl.to_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'reg_tab
 print(f"\nOLS results: R²={r2:.3f}  Adj-R²={r2_adj:.3f}  n={n_obs}")
 print(reg_tbl.to_string(index=False))
 
-# ══════════════════════════════════════════════════════════════════════════════
 # 4.  SUBSTITUTES vs. COMPLEMENTS — Within-Category CV + ANOVA
-# ══════════════════════════════════════════════════════════════════════════════
 
 cv_df = (paid.groupby('category')['price']
              .agg(N='count', Mean='mean', Std='std')
@@ -216,9 +211,7 @@ df_wit  = sum(len(g) - 1 for g in groups)
 f_stat  = (ss_bet / df_bet) / (ss_wit / df_wit)
 print(f"\nOne-way ANOVA: F({df_bet},{df_wit}) = {f_stat:.2f}  (p < 0.001 by inspection)")
 
-# ══════════════════════════════════════════════════════════════════════════════
 # 5.  FIGURES
-# ══════════════════════════════════════════════════════════════════════════════
 
 BLUE   = '#2166AC'
 RED    = '#D6604D'
@@ -226,7 +219,7 @@ LBLUE  = '#92C5DE'
 LRED   = '#F4A582'
 GREY   = '#AAAAAA'
 
-# ── Figure 1: Price distribution by platform ─────────────────────────────────
+# Figure 1: Price distribution by platform
 fig, axes = plt.subplots(1, 2, figsize=(10, 4.5), sharey=False)
 for ax, plat, col in zip(axes,
                           ['AWS Data Exchange','Snowflake Marketplace'],
@@ -246,7 +239,7 @@ plt.tight_layout()
 plt.savefig(FIG + 'fig1_platform_dist.png', dpi=150, bbox_inches='tight')
 plt.close()
 
-# ── Figure 2: Median price by category ────────────────────────────────────────
+#Figure 2: Median price by category
 cat_med = paid.groupby('category')['price'].median().sort_values()
 high = {'Financial','Healthcare'}
 bar_cols = [RED if c in high else LBLUE for c in cat_med.index]
@@ -267,7 +260,7 @@ plt.tight_layout()
 plt.savefig(FIG + 'fig2_cat_median.png', dpi=150, bbox_inches='tight')
 plt.close()
 
-# ── Figure 3: Pricing model mix by platform ────────────────────────────────
+# Figure 3: Pricing model mix by platform
 pm_plat = df.groupby(['platform','pricing_model']).size().unstack(fill_value=0)
 pm_pct  = pm_plat.div(pm_plat.sum(axis=1), axis=0) * 100
 order   = ['Subscription','One-off','Free']
@@ -289,7 +282,7 @@ plt.tight_layout()
 plt.savefig(FIG + 'fig3_pricing_mix.png', dpi=150, bbox_inches='tight')
 plt.close()
 
-# ── Figure 4: Price by update frequency (box) ─────────────────────────────
+# Figure 4: Price by update frequency (box)
 data_freq = [np.log(paid[paid['update_freq'] == f]['price'] + 1) for f in FREQ_ORDER]
 box_cols  = [RED, LRED, '#FDDBC7', LBLUE, BLUE]
 fig, ax = plt.subplots(figsize=(9, 4.5))
@@ -306,7 +299,7 @@ plt.tight_layout()
 plt.savefig(FIG + 'fig4_freq_box.png', dpi=150, bbox_inches='tight')
 plt.close()
 
-# ── Figure 5: OLS coefficient forest plot ─────────────────────────────────
+# Figure 5: OLS coefficient forest plot
 skip = {'Intercept', 'Is_Bundled', 'Subscription'}
 plot_df = reg_tbl[~reg_tbl['Variable'].isin(skip)].copy()
 plot_df = plot_df.sort_values('Coefficient')
@@ -329,7 +322,7 @@ plt.tight_layout()
 plt.savefig(FIG + 'fig5_coefs.png', dpi=150, bbox_inches='tight')
 plt.close()
 
-# ── Figure 6: Within-category coefficient of variation ───────────────────
+#Figure 6: Within-category coefficient of variation
 cv_plot = cv_df.sort_values('CV (%)', ascending=True)
 bar_cv  = [RED if v > 100 else BLUE for v in cv_plot['CV (%)']]
 mean_cv = cv_df['CV (%)'].mean()
@@ -346,9 +339,7 @@ plt.tight_layout()
 plt.savefig(FIG + 'fig6_cv.png', dpi=150, bbox_inches='tight')
 plt.close()
 
-# ══════════════════════════════════════════════════════════════════════════════
 # 6.  SAVE SUMMARY RESULTS
-# ══════════════════════════════════════════════════════════════════════════════
 
 results = {
     'n_total':       int(len(df)),
